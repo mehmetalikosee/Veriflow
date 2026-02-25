@@ -1,0 +1,4 @@
+part_number,description,quantity,working_voltage_v,clearance_mm,creepage_distance_mm,material_group,pollution_degree,overvoltage_category,ip_code
+P1,P1 pass,1,230,2.0,2.5,III,2,2,IP20
+P2,P2 pass,1,230,2.0,2.5,III,2,2,IP20
+P3,P3 creepage fail,1,230,2.0,2.3,III,2,2,IP20

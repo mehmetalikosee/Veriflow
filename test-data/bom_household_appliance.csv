@@ -1,0 +1,4 @@
+part_number,description,quantity,working_voltage_v,rated_voltage_v,clearance_mm,creepage_distance_mm,material_group,pollution_degree,overvoltage_category,insulation_type,ip_code
+MAINS-230,Mains input 230V AC,1,230,250,2.5,3.0,III,2,2,,IP20
+ISOL-230,Isolation barrier 230V,1,230,250,2.0,2.5,III,2,2,,IP20
+FUSE-250,Line fuse 250V,1,250,,,,III,2,2,,

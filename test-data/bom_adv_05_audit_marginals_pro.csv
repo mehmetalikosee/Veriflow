@@ -1,0 +1,11 @@
+part_number,description,quantity,working_voltage_v,clearance_mm,creepage_distance_mm,material_group,pollution_degree,overvoltage_category,ip_code,ref_des,notes
+AUD-M1,Measured 230V barrier; clearance 1.52mm creepage 2.52mm; prototype rev B,1,230,1.52,2.52,III,2,2,IP20,M1,Pass; measured
+AUD-M2,Same barrier lot; 1.48mm clearance; 2.50mm creepage,1,230,1.48,2.50,III,2,2,IP20,M2,Clearance 0.02 under
+AUD-M3,Optocoupler batch 7; 2.0mm / 2.46mm creepage,1,230,2.0,2.46,III,2,2,IP20,M3,Creepage marginal fail
+AUD-M4,Transformer 250V; 2.1 / 2.7mm; within spec,1,250,2.1,2.7,III,2,2,IP20,M4,OK
+AUD-M5,PCB slot 230V; 1.50 / 2.50 exact; retest OK,1,230,1.50,2.50,III,2,2,IP20,M5,At limit
+AUD-M6,Component 230V; 1.42 / 2.48; both marginal,1,230,1.42,2.48,III,2,2,IP20,M6,Both fail
+AUD-M7,230V part; 1.55 / 2.55; 0.05 over min,1,230,1.55,2.55,III,2,2,IP20,M7,Pass
+AUD-M8,TBD spacing; 230V; values TBD,1,230,,,III,2,2,IP20,M8,No measurements yet
+AUD-M9,250V part; 2.0 / 2.5; production sample,1,250,2.0,2.5,III,2,2,IP20,M9,Pass
+AUD-M10,230V; 1.60 / 2.60; design target +0.1mm,1,230,1.60,2.60,III,2,2,IP20,M10,Comfort margin

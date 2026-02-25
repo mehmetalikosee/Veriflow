@@ -1,0 +1,4 @@
+part_number,description,quantity,working_voltage_v,clearance_mm,creepage_distance_mm,material_group,pollution_degree,overvoltage_category,ip_code
+A-230,Part A,1,230,2.0,2.5,III,2,2,IP20
+B-230,Part B,1,230,2.2,2.8,III,2,2,IP20
+C-230,Part C,1,230,1.8,2.6,III,2,2,IP20

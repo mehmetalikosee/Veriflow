@@ -1,0 +1,2 @@
+part_number,description,quantity,working_voltage_v,rated_voltage_v,clearance_mm,creepage_distance_mm,material_group,pollution_degree,overvoltage_category,insulation_type,ip_code
+REIN-230,Reinforced insulation 230V; 2× min = 3.0 / 5.0 mm,1,230,250,3.0,5.0,III,2,2,reinforced,IP20

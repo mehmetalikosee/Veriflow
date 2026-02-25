@@ -1,0 +1,19 @@
+part_number,description,quantity,working_voltage_v,clearance_mm,creepage_distance_mm,material_group,pollution_degree,overvoltage_category,ip_code,ref_des,notes
+IC-PSU-230,24V PSU 230VAC input; Industrial; IP54; Reinforced,1,230,2.5,3.2,III,2,2,IP54,U1,Table 29
+IC-FUSE-600,Fuse holder 600V; 10x38; gG,1,600,,,III,2,2,IP54,F1,No spacing data
+IC-CONT-230,Contactor 230V coil; 8mm contact clearance,1,230,8.0,10.0,III,2,2,IP54,K1,Industrial margin
+IC-TERM-600,Terminal block 600V; 5.08mm pitch; 3.2mm creepage,1,600,3.0,3.2,III,2,2,IP54,X1,Meets 3.2
+IC-PLC-24,PLC 24V; SELV; N/A for 29.1/29.2,1,24,,,III,2,2,IP54,U2,N/A
+IC-REL-230,Relay module 230V; 2.0/2.5mm internal,1,230,2.0,2.5,III,2,2,IP54,K2,Exact min
+IC-RECT-400,Rectifier module 400V; 1.5/3.0mm; clearance at limit,1,400,1.5,3.0,III,2,2,IP54,BR1,400V row
+IC-OPT-300,Optocoupler 300V; 1.48mm clearance; fail,1,300,1.48,2.5,III,2,2,IP54,U3,Tiny break
+IC-FILTER-230,EMI filter 230V; 2.2/2.8mm,1,230,2.2,2.8,III,2,2,IP54,L1,Pass
+IC-VAR-385,VARISTOR 385V; 2.0/3.2mm,1,385,2.0,3.2,III,2,2,IP54,RV1,400V tier
+IC-CAP-450,DC link 450V; 2.0/3.5mm to chassis,1,450,2.0,3.5,III,2,2,IP54,C1,500V row 4.0 creep
+IC-IGBT-600,IGBT 600V; 2.5/4.0mm isolation,1,600,2.5,4.0,III,2,2,IP54,Q1,Compliant
+IC-GATE-15,Gate driver 15V; isolated; N/A,1,15,,,III,2,2,IP54,U4,SELV
+IC-SNS-230,Current sensor 230V; 2.0/2.45mm creepage,1,230,2.0,2.45,III,2,2,IP54,U5,Marginal creepage fail
+IC-DISPLAY-24,Display 24V; front panel,1,24,,,III,2,2,IP54,H1,N/A
+IC-MCB-230,MCB 230V; 6mm clearance certified,1,230,6.0,8.0,III,2,2,IP54,Q2,Overkill
+IC-BUS-600,DC bus 600V; 2.5/4.0mm bar spacing,1,600,2.5,4.0,III,2,2,IP54,PWR,Compliant
+IC-FAN-24,Fan 24V; N/A,1,24,,,III,2,2,IP54,M1,N/A

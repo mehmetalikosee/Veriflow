@@ -1,0 +1,2 @@
+part_number,description,quantity,working_voltage_v,rated_voltage_v,clearance_mm,creepage_distance_mm,material_group,pollution_degree,overvoltage_category,insulation_type,ip_code
+FAIL-230,Intentional fail: low clearance and creepage,1,230,250,1.0,1.5,III,2,2,,IP20

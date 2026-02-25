@@ -1,0 +1,4 @@
+part_number,description,quantity,working_voltage_v,clearance_mm,creepage_distance_mm,material_group,pollution_degree,overvoltage_category,ip_code
+OK-01,Pass,1,230,2.0,2.5,III,2,2,IP20
+FAIL-A,Clearance fail,1,230,1.0,2.5,III,2,2,IP20
+FAIL-B,Creepage fail,1,230,2.0,2.0,III,2,2,IP20

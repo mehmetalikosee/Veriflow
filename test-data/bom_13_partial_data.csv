@@ -1,0 +1,5 @@
+part_number,description,quantity,working_voltage_v,clearance_mm,creepage_distance_mm,material_group,pollution_degree,overvoltage_category,ip_code
+FULL,Has clearance and creepage,1,230,2.0,2.5,III,2,2,IP20
+NO-CLR,No clearance value only creepage,1,230,,2.5,III,2,2,
+NO-CRP,No creepage value only clearance,1,230,2.0,,III,2,2,
+FUSE,No distances line fuse,1,250,,,III,2,2,

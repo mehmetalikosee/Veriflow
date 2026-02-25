@@ -1,0 +1,2 @@
+part_number,description,quantity,working_voltage_v,rated_voltage_v,clearance_mm,creepage_distance_mm,material_group,pollution_degree,overvoltage_category,insulation_type,ip_code
+NOIP-230,High voltage part with no IP code; expect 8.1 manual review,1,230,,2.0,2.5,III,2,2,,

@@ -1,0 +1,2 @@
+part_number,description,quantity,working_voltage_v,clearance_mm,creepage_distance_mm,material_group,pollution_degree,overvoltage_category,ip_code
+FAIL-BOTH,Both clearance and creepage below,1,230,1.0,1.5,III,2,2,IP20

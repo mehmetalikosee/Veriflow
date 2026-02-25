@@ -1,0 +1,13 @@
+part_number,description,quantity,working_voltage_v,clearance_mm,creepage_distance_mm,material_group,pollution_degree,overvoltage_category,ip_code,ref_des,manufacturer,notes
+PS-ISO-250V,Isolation transformer 250VAC primary-secondary; IEC 61558-1; Reinforced insulation,1,250,2.2,2.8,III,2,2,IP20,T1,Tamura,Measured on prototype
+PS-FBK-230,230VAC input fuse holder; 5x20mm; 250V rating,1,230,,,III,2,2,,F1,Schurter,N/A for clearance
+PS-Y1-250,Y-cap 250VAC X1/Y1; 2.2nF; CTI 250,1,250,2.5,3.2,III,2,2,IP20,C1,Kemet,Clause 29 applied
+PS-OPTO-417,Optocoupler 417V; Reinforced; 8mm creepage internal,1,250,2.0,2.48,III,2,2,IP20,U1,Broadcom,Marginal vs 2.5mm
+PS-RES-230,230V rail bleed resistor; 1206; 3.2mm clearance design,1,230,3.2,4.0,III,2,2,IP20,R1,Vishay,Design target met
+PS-DIODE-400,Rectifier 400V; isolation to heatsink,1,400,1.8,3.0,III,2,2,IP20,D1,Diodes Inc,Below 3.2mm creepage
+PS-MOS-600,MOSFET 600V; primary side; 2.5mm clearance,1,600,2.5,4.0,III,2,2,IP20,Q1,Infineon,Table 29.1/29.2
+PS-CAP-400,Bulk cap 400V; spacing to primary,1,400,1.52,2.6,III,2,2,IP20,C2,Panasonic,Clearance marginal
+PS-CONN-250,Mains connector 250V; 5.08mm pitch; certified,1,250,3.0,4.0,III,2,2,IP54,J1,Weidmüller,Enclosure
+PS-PCB-230,PCB primary-secondary barrier; 230V; slot 1.4mm,1,230,1.4,2.5,III,2,2,IP20,PCB,N/A,Slot width fail
+PS-NTC-230,NTC inrush 230V; 2.0/2.5mm design,1,230,2.0,2.5,III,2,2,IP20,RT1,EPCOS,OK
+PS-BRIDGE-600,Bridge 600V; 2.0mm clearance to heatsink,1,600,2.0,3.5,III,2,2,IP20,BR1,ON Semi,Meets 2.0/3.2

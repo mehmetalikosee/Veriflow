@@ -1,0 +1,5 @@
+part_number,description,quantity,working_voltage_v,clearance_mm,creepage_distance_mm,material_group,pollution_degree,overvoltage_category,ip_code
+MAINS-230,Mains 230V OK,1,230,2.5,3.0,III,2,2,IP20
+ISOL-230,Isolation OK,1,230,2.0,2.5,III,2,2,
+MARGINAL,Marginal creepage 2.4mm fail,1,230,2.0,2.4,III,2,2,IP20
+FUSE-250,Line fuse no distances,1,250,,,III,2,2,

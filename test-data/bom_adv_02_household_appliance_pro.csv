@@ -1,0 +1,17 @@
+part_number,description,quantity,working_voltage_v,clearance_mm,creepage_distance_mm,material_group,pollution_degree,overvoltage_category,ip_code,ref_des,notes
+HA-MAINS-230,Mains inlet 230V 10A; IEC 60320 C14; Basic insulation,1,230,2.5,3.0,III,2,2,IP20,J2,Clause 29.1/29.2
+HA-FUSE-250,Thermal fuse 250V; T2.5A; no live spacing,1,250,,,III,2,2,,F1,Not applicable
+HA-RELAY-250,Relay 250VAC coil; 5mm contact clearance,1,250,5.0,6.0,III,2,2,IP20,K1,Overkill design
+HA-MOTOR-230,AC motor 230V; Class I; pollution degree 2,1,230,2.0,2.55,III,2,2,IP54,M1,Within limit
+HA-HEATER-230,Heating element 230V; terminal block 3mm,1,230,3.0,3.5,III,2,2,IP20,H1,Compliant
+HA-THERMO-250,Thermostat 250V; 2.0/2.5mm certified,1,250,2.0,2.5,III,2,2,IP20,ST1,Exact minimum
+HA-PUMP-230,Pump motor 230V; internal clearance 1.45mm,1,230,1.45,2.5,III,2,2,IP44,P1,Marginal clearance fail
+HA-PCB-PWR,Power PCB 230V; track-to-track 2.4mm creepage,1,230,2.0,2.4,III,2,2,IP20,PCB1,Creepage 0.1 under
+HA-CAP-275,Motor run cap 275V; 2.2/2.8mm,1,275,2.2,2.8,III,2,2,IP20,C1,250V row
+HA-LED-24,LED driver 24V secondary; SELV; N/A,1,24,,,III,2,2,,U2,No HV
+HA-SW-250,Rocker switch 250V 16A; 3mm clearance,1,250,3.0,3.2,III,2,2,IP20,S1,User-accessible
+HA-VAR-230,VARISTOR 275V; 2.0/2.5mm to L/N,1,275,2.0,2.5,III,2,2,IP20,RV1,OV category II
+HA-X2-275,X2 cap 275V; 1.6mm clearance measured,1,275,1.6,2.6,III,2,2,IP20,C2,Pass both
+HA-CONTROL-230,Control board 230V; reinforced barrier 2.5/3.0,1,230,2.5,3.0,III,2,2,IP20,U1,Compliant
+HA-EARTH-NA,Earth terminal; no HV,1,,,,III,2,2,,PE,N/A
+HA-DOOR-24,Door lock 24V; SELV,1,24,,,III,2,2,,K2,N/A

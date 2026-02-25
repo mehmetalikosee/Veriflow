@@ -1,0 +1,3 @@
+part_number,description,quantity,working_voltage_v,rated_voltage_v,clearance_mm,creepage_distance_mm,material_group,pollution_degree,overvoltage_category,insulation_type,ip_code
+PSU-230-01,Primary-secondary isolation 230V,1,230,250,2.0,2.5,III,2,2,,IP20
+FUSE-250V,Line fuse,1,250,,,,III,2,2,,

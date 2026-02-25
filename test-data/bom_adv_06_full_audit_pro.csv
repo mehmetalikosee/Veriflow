@@ -1,0 +1,23 @@
+part_number,description,quantity,working_voltage_v,clearance_mm,creepage_distance_mm,material_group,pollution_degree,overvoltage_category,ip_code,ref_des,notes
+FA-MAINS,Mains inlet 230V 16A IEC C14; Basic insulation; certified,1,230,2.8,3.5,III,2,2,IP20,J1,Pass
+FA-FUSE,Fuse 250V T5A; no HV spacing requirement,1,250,,,III,2,2,,F1,N/A
+FA-X2,X2 cap 275VAC; 2.0/2.6mm; production,1,275,2.0,2.6,III,2,2,IP20,C1,Pass
+FA-Y1,Y1 cap 250V; 2.5/3.0mm; reinforced,1,250,2.5,3.0,III,2,2,IP20,C2,Pass
+FA-BRIDGE,Bridge 600V; 2.0/3.5mm; 3.2 required for 400V,1,600,2.0,3.5,III,2,2,IP20,BR1,Pass
+FA-OPTO-1,Optocoupler 300V; 1.5/2.5 exact,1,300,1.5,2.5,III,2,2,IP20,U1,Pass
+FA-OPTO-2,Optocoupler 300V; 1.42/2.48; marginal,1,300,1.42,2.48,III,2,2,IP20,U2,Both fail
+FA-RES-230,Resistor 230V rail; 2.2/2.8mm,1,230,2.2,2.8,III,2,2,IP20,R1,Pass
+FA-MOS-400,MOSFET 400V; 1.5/3.1mm; creepage 0.1 under,1,400,1.5,3.1,III,2,2,IP20,Q1,Creepage fail
+FA-TRANS-230,Transformer 230V; 2.5/3.0mm; EI core,1,230,2.5,3.0,III,2,2,IP20,T1,Pass
+FA-CONN-250,Connector 250V; 3.0/4.0mm; screw terminal,1,250,3.0,4.0,III,2,2,IP20,J2,Pass
+FA-PCB-1,PCB 230V primary; 1.5/2.5 slot,1,230,1.5,2.5,III,2,2,IP20,PCB1,Pass
+FA-PCB-2,PCB 230V; slot 1.38mm; clearance fail,1,230,1.38,2.5,III,2,2,IP20,PCB2,Clearance fail
+FA-CAP-400,Cap 400V DC; 1.5/3.2 exact,1,400,1.5,3.2,III,2,2,IP20,C3,Pass
+FA-DIODE-600,Diode 600V; 2.0/4.0mm,1,600,2.0,4.0,III,2,2,IP20,D1,Pass
+FA-NTC,NTC 230V; 2.0/2.5mm,1,230,2.0,2.5,III,2,2,IP20,RT1,Pass
+FA-RELAY,Relay 250V; 4.0/5.0mm contact,1,250,4.0,5.0,III,2,2,IP20,K1,Pass
+FA-24V,24V rail; SELV; N/A,1,24,,,III,2,2,,U3,N/A
+FA-VAR,VARISTOR 275V; 2.0/2.5mm,1,275,2.0,2.5,III,2,2,IP20,RV1,Pass
+FA-FUSE2,Secondary fuse 32V; N/A,1,32,,,III,2,2,,F2,N/A
+FA-REG,Regulator 35V; SELV,1,35,,,III,2,2,,U4,N/A
+FA-FINAL,230V test point; 2.0/2.52mm; retest OK,1,230,2.0,2.52,III,2,2,IP20,TP1,Pass
